@@ -2,8 +2,10 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ItsSaurabhSingh-red)]
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)]https://www.linkedin.com/in/saurabh-singh-192613257/)
-[![Website Badge]]
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)](https://www.linkedin.com/in/saurabh-singh-192613257/))
+<!-- [![Website Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://https://www.quora.com/profile/saurabh-14104) -->
+
+
 
 
 
