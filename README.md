@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ItsSaurabhSingh-red)]
-[![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)](https://www.linkedin.com/in/manohar-meena-1a132221b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)]([https://www.linkedin.com/in/manohar-meena-1a132221b/](https://www.linkedin.com/in/saurabh-singh-192613257/))
 [![Website Badge]]
 
 
