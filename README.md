@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)](https://www.linkedin.com/in/saurabh-singh-192613257/)
 <!-- [![Website Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://https://www.quora.com/profile/saurabh-14104) -->
 <a href="https://saurabhsingh457.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-<img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh457&show_icons=true&locale=en" alt="">
 
 
 
@@ -25,6 +24,10 @@ The crossover between design and programming has always been of interest to me, 
     <img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh457&column=7"/>
   </a>
 </div>
+<img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh457&lans-count=4" alt="">
+<img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh457&show_icons=true&locale=en" alt="">
+<img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsingh457&" alt="">
+
 
 Languages and Tools: 
 
